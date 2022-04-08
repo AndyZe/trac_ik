@@ -19,7 +19,7 @@
   <exec_depend>trac_ik_examples</exec_depend>
   <exec_depend>trac_ik_kinematics_plugin</exec_depend>
   <exec_depend>trac_ik_lib</exec_depend>
-  <exec_depend>trac_ik_python</exec_depend>
+  <!-- <exec_depend>trac_ik_python</exec_depend> -->
 
   <export>
     <build_type>ament_cmake</build_type>
